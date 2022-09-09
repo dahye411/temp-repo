@@ -1,4 +1,4 @@
-# Open Source SW Lecture2 summary
+# Open Source SW Lecture2 Summary
 One repository is not necessarily created by one person, but can be created, modified, and supplemented by several people.
 
 README.md file contains the contents of the document on the first screen that you see when you open the repository.
